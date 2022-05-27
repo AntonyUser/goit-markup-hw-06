@@ -359,7 +359,7 @@ ul {
     border: transparent;
     box-shadow: none;
     background-color: var(--accent-color);
-    background-image: url(/images/body/icons/originals/check.svg);
+    background-image: url(./images/body/icons/originals/check.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
